@@ -1,0 +1,15 @@
+.header {
+  background-color: yellow;
+  margin: 0;
+  padding: 0;
+  height: 10vh;
+}
+
+.contain {
+  display: flex;
+  margin: 0px;
+}
+
+h1 {
+  color: black;
+}
